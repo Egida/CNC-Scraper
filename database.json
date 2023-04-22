@@ -1,0 +1,110 @@
+{
+    "results_database": [
+        {
+            "ip": "46.232.62.138",
+            "arch": "Binarys/Owari.m68k",
+            "mysql_login": "root:root",
+            "databases": [
+                {
+                    "README_TO_RECOVER_A": [
+                        "Users table not found."
+                    ]
+                },
+                {
+                    "root": [
+                        "Users table not found."
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "45.88.67.192",
+            "arch": "bins/x86",
+            "mysql_login": "root:root",
+            "databases": [
+                {
+                    "README_TO_RECOVER_A": [
+                        "Users table not found."
+                    ]
+                },
+                {
+                    "root": [
+                        "Users table not found."
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "37.221.65.228",
+            "arch": "x-8.6-.Fourloko",
+            "mysql_login": "root:root",
+            "databases": [
+                {
+                    "README_TO_RECOVER_A": [
+                        "Users table not found."
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "161.35.100.108",
+            "arch": "hiddenbin/boatnet.x86",
+            "mysql_login": "root:root",
+            "databases": [
+                {
+                    "BeastMode": [
+                        "root:root",
+                        "inori:lmaowtf"
+                    ]
+                },
+                {
+                    "Meerkat": [
+                        "admin:admin",
+                        "inori:lmaowtf"
+                    ]
+                },
+                {
+                    "gang": [
+                        "TheFire:Hulk000",
+                        "inori:lmaowtf"
+                    ]
+                },
+                {
+                    "shitnet": [
+                        "root:root",
+                        "inori:lmaowtf"
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "103.178.229.137",
+            "arch": "x86",
+            "mysql_login": "root:",
+            "databases": [
+                {
+                    "README_RECOVER_DATABASES3": [
+                        "Users table not found."
+                    ]
+                },
+                {
+                    "README_TO_RECOVER_A": [
+                        "Users table not found."
+                    ]
+                },
+                {
+                    "Unstable": [
+                        "root:admin",
+                        "killmir:killmir",
+                        "overlord:overlord",
+                        "uamkill:pisun123",
+                        "haltenny:cucumba78",
+                        "void_security:pe0ple=sh1t",
+                        "mirai:mirai",
+                        "inori:lmaowtf"
+                    ]
+                }
+            ]
+        }
+    ]
+}
